@@ -1,5 +1,5 @@
-<h1 align="center">Hello there👋, I'm Ganga Raghu</h1>
-<p>A passionate Information Science student at MSRIT, Bangalore. 
+<h1 align="center">Hello there, I'm Ganga Raghu</h1>
+<p>An Information Science student at MSRIT, Bangalore. 
   I love exploring new technologies and solving real-world problems through code whether it's building interactive apps or diving into the world of algorithms.</p>
 
 📫 How to reach me
