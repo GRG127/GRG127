@@ -9,7 +9,7 @@ I'm a Ganga Raghu, an Information Science student based in Bangalore.
 🌱 Passionate about data analytics, business intelligence, and machine learning.  
 💼 Working on impactful projects in web developemnt, data analytics, and machine learning. 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +60,7 @@ I'm a Ganga Raghu, an Information Science student based in Bangalore.
 </p>
 
 
----
+
 
 ## 📊 GitHub Analytics
 
@@ -73,7 +73,7 @@ I'm a Ganga Raghu, an Information Science student based in Bangalore.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRG127&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
----
+
 
 ## 📬 Contact Me
 
