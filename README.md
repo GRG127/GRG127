@@ -89,7 +89,6 @@ I'm Ganga Raghu, an Information Science student based in Bangalore.
   </a>
 </p>
 
----
 
 ⭐ Explore my [projects](https://github.com/GRG127?tab=repositories) and drop a ⭐ if you find them interesting!
 
