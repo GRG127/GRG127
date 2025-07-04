@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ganga!
 
-I'm Ganga Raghu, an Information Science student based in Bangalore.
-
-
 ## 🧠 About Me
 
 🎓 Currently pursuing a degree in Information Science Engineering  
