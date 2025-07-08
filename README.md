@@ -68,6 +68,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GRG127&theme=tokyonight&hide_border=true" width="65%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/GRG127/GRG127/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 ## 📬 Contact Me
