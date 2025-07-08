@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ganga!
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Engineer+%7C+Tech+Explorer+%7C+Code+Storyteller;Learning+One+Bug+at+a+Time+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;From+MERN+to+ML+%E2%9A%99%EF%B8%8F+Let's+Build!" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=GRG127&label=Profile+Visitors&color=ff69b4&style=flat-square" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Learning+One+Bug+at+a+Time" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=GRG127&label=Profile+Visitors&color=ff69b4&style=flat-square" /> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GRG127&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
